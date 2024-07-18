@@ -5,10 +5,18 @@ The exponential growth of digital communication has led to the prevalence of ins
 Use The below Commands to run the project
 
 streamlit run app.py ---- to run project
+
 python 3.7 only
+
 pip install streamlit
+
 pip install urlextract
+
 pip install matplotlib
+
 pip install wordcloud
+
 pip install emoji
+
 pip install seaborn
+
